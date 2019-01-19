@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<Servers >
+	<!-- Server Group will encompass a single group running multiple servers -->
+	<ServerGroup Name="G4K Ninjas Steam Community" Logo="">
+
+		<!-- Main Server -->
+
+		<Server Name="G4K Ninjas" Logo="">	<!-- Display name of the server, also used for Folder path -->
+			<Address>78.129.254.36</Address>	<!-- IP address of the Server, this value gets updated in the Registry -->
+			<Port>26990</Port>			<!-- Port number of Server, this value gets updated in the Registry for the Port -->
+			<Type>Passworded</Type>			<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
+			<Version>Latest</Version>  		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
+			<EAC>Enabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
+			<Admin>NerdScurvy</Admin>		<!-- Admin Name(s). Display purposes only.  -->
+			<AdminContact>nerdscurvy@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->
+			<WebSite>https://www.YouTube.com/Games4Kickz</WebSite>-->	<!-- Server's web page, if available. Used as a web link. -->
+			<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
+			<!--<ReleaseNotes></ReleaseNotes>-->
+			
+			<!-- Required downloads -->
+			<!-- NOTE: If you are using MediaFire, this needs to be a *direct link*. Right click on the Download button and copy address -->
+			<Downloads>
+				<Download>https://github.com/NerdScurvy/7DTD-g4k/archive/master.zip</Download>
+			</Downloads>
+			<Description>
+			Games4Kickz Server for the G4K Ninjas
+			</Description>
+		</Server>
+		
+	</ServerGroup>
+</Servers>

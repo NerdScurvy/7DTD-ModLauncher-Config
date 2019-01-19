@@ -1,0 +1,1 @@
+# 7DTD-ModLauncher-Config
