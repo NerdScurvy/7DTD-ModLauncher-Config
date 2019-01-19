@@ -10,7 +10,7 @@
 			<Port>26990</Port>			<!-- Port number of Server, this value gets updated in the Registry for the Port -->
 			<Type>Passworded</Type>			<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Version>Latest</Version>  		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
-			<EAC>Enabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
+			<EAC>Disabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
 			<Admin>NerdScurvy</Admin>		<!-- Admin Name(s). Display purposes only.  -->
 			<AdminContact>nerdscurvy@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->
 			<WebSite>https://www.YouTube.com/Games4Kickz</WebSite>-->	<!-- Server's web page, if available. Used as a web link. -->
