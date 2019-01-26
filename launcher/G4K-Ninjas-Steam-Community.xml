@@ -42,7 +42,31 @@
 			<!-- Required downloads -->
 			<!-- NOTE: If you are using MediaFire, this needs to be a *direct link*. Right click on the Download button and copy address -->
 			<Downloads>
-				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/7DTD-g4k-1.1.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/custom_prefabs.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/localization.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_basic_elevator.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_better_books.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_bigger_backpack.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_firearms.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_folding_garage_door.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_fun_with_flags.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_guppy_collection.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_junk_items.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_khelldon_collection.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_lockpicks.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_manux_vehicles.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_multipassenger.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_nerdscurvy_ammo_dismantling.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_nerdscurvy_bathtime.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_nerdscurvy_collection.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_nerdscurvy_framed.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_nerdscurvy_rubber_ducky.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_nerdscurvy_toybox.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_salvaged_bats.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_trader_adverts.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_trader_ralph.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_xajar_collection.zip</Download>
+				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_zombie_pinups.zip</Download>				
 			</Downloads>
 			<Description>
 			Games4Kickz Server for the G4K Ninjas (Mirror download)
@@ -51,3 +75,5 @@
 		
 	</ServerGroup>
 </Servers>
+
+
