@@ -35,6 +35,7 @@
 			<Type>Passworded</Type>			<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Version>alpha17</Version>  		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
 			<EAC>Disabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
+			<DownloadMode>Clone</DownloadMode>
 			<Admin>NerdScurvy</Admin>		<!-- Admin Name(s). Display purposes only.  -->
 			<AdminContact>nerdscurvy@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->
 			<WebSite>https://www.YouTube.com/Games4Kickz</WebSite>-->	<!-- Server's web page, if available. Used as a web link. -->
@@ -43,9 +44,9 @@
 			
 			<!-- Required downloads -->
 			<!-- NOTE: If you are using MediaFire, this needs to be a *direct link*. Right click on the Download button and copy address -->
-			<DownloadMode>Clone</DownloadMode>
+			
 			<Downloads>
-				<Download>https://github.com/NerdScurvy/7DTD-g4k</Download>
+				<Download>https://github.com/NerdScurvy/7DTD-g4k/archive/master.zip</Download>
 			</Downloads>
 			<Description>
 			Games4Kickz Server for the G4K Ninjas
