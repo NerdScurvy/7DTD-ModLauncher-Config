@@ -46,8 +46,6 @@
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/NerdScurvy/7DTD-g4k</Download>
-				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_nerdscurvy_more_doors.zip</Download>
-				<Download>https://s3.eu-west-2.amazonaws.com/nerdscurvy-g4k/mod_jaxteller718_more_lights.zip</Download>
 			</Downloads>
 			<Description>
 			Games4Kickz Server for the G4K Ninjas
