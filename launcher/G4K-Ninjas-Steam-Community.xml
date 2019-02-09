@@ -14,7 +14,7 @@
 			<DownloadMode>Clone</DownloadMode>
 			<Admin>NerdScurvy</Admin>		<!-- Admin Name(s). Display purposes only.  -->
 			<AdminContact>nerdscurvy@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->
-			<WebSite>https://www.YouTube.com/Games4Kickz</WebSite>	<!-- Server's web page, if available. Used as a web link. -->
+			<!-- Server's web page, if available. Used as a web link. -->
 			<!-- Link to a webpage that will show server information, including mods. Used as a web link. -->
 			<!--<ReleaseNotes></ReleaseNotes>-->
 			
@@ -27,12 +27,11 @@
 			Games4Kickz Server for the G4K Ninjas
 			</Description>
 		</Server>
-
 		<Server Name="NerdScurvy - Experimental Server" Logo="">	<!-- Display name of the server, also used for Folder path -->
 		    <Address>5.101.164.208</Address>
 		    <Port>25400</Port>	
 			<Type>Passworded</Type>			<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
-			<Version>Experimental</Version>  		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
+			<Version>experimental</Version>  		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
 			<EAC>Disabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
 			<DownloadMode>Clone</DownloadMode>
 			<Admin>NerdScurvy</Admin>		<!-- Admin Name(s). Display purposes only.  -->
