@@ -27,7 +27,7 @@
 			Games4Kickz Server for the G4K Ninjas
 			</Description>
 		</Server>
-		<Server Name="NerdScurvy - Duckkness Falls" Logo="">	<!-- Display name of the server, also used for Folder path -->
+		<Server Name="NerdScurvy - Duckness Falls" Logo="">	<!-- Display name of the server, also used for Folder path -->
 		    <Address>5.101.164.208</Address>
 		    <Port>25400</Port>	
 			<Type>Passworded</Type>			<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
