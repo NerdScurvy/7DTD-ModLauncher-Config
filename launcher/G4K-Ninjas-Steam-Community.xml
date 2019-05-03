@@ -37,7 +37,7 @@
 			<Admin>NerdScurvy</Admin>		<!-- Admin Name(s). Display purposes only.  -->
 			<AdminContact>nerdscurvy@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->
 			<Downloads>
-				<Download>https://github.com/NerdScurvy/DarknessFallsA17Server/archive/master.zip</Download>
+				<Download>https://github.com/NerdScurvy/DarknessFallsA17Client/archive/master.zip</Download>
 			</Downloads>
 			<Description>
 			
