@@ -8,10 +8,11 @@
 			<Port>25100</Port>			<!-- Port number of Server, this value gets updated in the Registry for the Port -->
 			<Type>Passworded</Type>			<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Version>Latest</Version>  		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
-			<EAC>Enabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
-			<DownloadMode>Clone</DownloadMode>
+			<EAC>Disabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
+			
 			<Admin>NerdScurvy</Admin>		<!-- Admin Name(s). Display purposes only.  -->
 			<AdminContact>nerdscurvy@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->
+			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/NerdScurvy/7DaysToDie-Modlets-A18/archive/master.zip</Download>
 			</Downloads>
