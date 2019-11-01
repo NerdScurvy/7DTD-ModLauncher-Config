@@ -25,6 +25,8 @@
 			<Description>
 			The Lost Adventures of the Duckling Gang
 			</Description>
+			
+		</Server>
 <Server Name="Gnamod UI (Dev)" Logo="">
 <Description>
 ===============Current Version 0.6.0===============
@@ -38,8 +40,7 @@ WARNING A18 Experimental Version. This version is under development to port over
 </Excludes>
 <DownloadMode>Clone</DownloadMode>
 <Downloads> <Download>https://Gnamod@dev.azure.com/Gnamod/UI/_git/Dev</Download> </Downloads>
-</Server>			
-		</Server>
+</Server>
 	</ServerGroup>
 </Servers>
 
