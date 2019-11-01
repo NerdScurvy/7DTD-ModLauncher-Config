@@ -14,7 +14,7 @@
 			<AdminContact>nerdscurvy@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://github.com/NerdScurvy/7DaysToDie-Modlets-A18</Download>
+				<Download>https://github.com/NerdScurvy/7DaysToDie-Modlets-A18.git</Download>
 			</Downloads>
 			<Description>
 			The Lost Adventures of the Duckling Gang
