@@ -1,47 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers >
-	<!-- Server Group will encompass a single group running multiple servers -->
-	<ServerGroup Name="NerdScurvy" Logo="">
-
-		<Server Name="Duck, Dodge, Dive and Weave" Logo="">	<!-- Display name of the server, also used for Folder path -->
-			<Address>46.251.234.35</Address>	<!-- IP address of the Server, this value gets updated in the Registry -->
-			<Port>25100</Port>			<!-- Port number of Server, this value gets updated in the Registry for the Port -->
-			<Type>Passworded</Type>			<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
-			<Version>Latest</Version>  		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
-			<EAC>Disabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
-			
-			<Admin>NerdScurvy</Admin>		<!-- Admin Name(s). Display purposes only.  -->
-			<AdminContact>nerdscurvy@gmail.com</AdminContact>  	<!-- Contact point, could also be URL. Display purposes only -->
-			<DownloadMode>Clone</DownloadMode>
-			<Excludes>
-				<Exclude>.gitattributes</Exclude>
-				<Exclude>.gitignore</Exclude>
-			</Excludes>			
-			<ReleaseNotes></ReleaseNotes>
-			<Downloads>
-				<Download>https://nerdscurvy@dev.azure.com/nerdscurvy/7DaysToDie-Modlets-A18/_git/7DaysToDie-Modlets-A18</Download>
-				<Download>https://Gnamod@dev.azure.com/Gnamod/UI/_git/Dev</Download>          
-			</Downloads>
-			<Description>
-			The Lost Adventures of the Duckling Gang
-			</Description>
-			
-		</Server>
-<Server Name="Gnamod UI (Dev)" Logo="">
-<Description>
-===============Current Version 0.6.0===============
-WARNING A18 Experimental Version. This version is under development to port over to A18. Does not work with A17.
-
-</Description>
-<ReleaseNotes>https://7daystodie.com/forums/showthread.php?119858-Gnamod-UI</ReleaseNotes>
+<ServerGroup Name="NerdScurvy" Logo="">
+<Server Name="Duck, Dodge, Dive and Weave" Logo="">
+<Address>46.251.234.35</Address>
+<Port>25100</Port>
+<Type>Passworded</Type>
+<Version>Latest</Version>
+<EAC>Disabled</EAC>
+<Admin>NerdScurvy</Admin>
+<AdminContact>nerdscurvy@gmail.com</AdminContact>
+<DownloadMode>Clone</DownloadMode>
 <Excludes>
 <Exclude>.gitattributes</Exclude>
 <Exclude>.gitignore</Exclude>
-</Excludes>
-<DownloadMode>Clone</DownloadMode>
-<Downloads> <Download>https://Gnamod@dev.azure.com/Gnamod/UI/_git/Dev</Download> </Downloads>
+</Excludes>			
+<ReleaseNotes></ReleaseNotes>
+<Downloads>
+<Download>https://nerdscurvy@dev.azure.com/nerdscurvy/7DaysToDie-Modlets-A18/_git/7DaysToDie-Modlets-A18</Download>
+<Download>https://Gnamod@dev.azure.com/Gnamod/UI/_git/Dev</Download>          
+</Downloads>
+<Description>
+The Lost Adventures of the Duckling Gang
+</Description>
 </Server>
-	</ServerGroup>
+</ServerGroup>
 </Servers>
 
 
