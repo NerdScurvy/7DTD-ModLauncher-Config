@@ -3,9 +3,9 @@
 	<!-- Server Group will encompass a single group running multiple servers -->
 	<ServerGroup Name="NerdScurvy" Logo="">
 
-		<Server Name="The Walking Duck" Logo="">	<!-- Display name of the server, also used for Folder path -->
-			<Address>5.101.164.103</Address>	<!-- IP address of the Server, this value gets updated in the Registry -->
-			<Port>25400</Port>			<!-- Port number of Server, this value gets updated in the Registry for the Port -->
+		<Server Name="Duck, Dodge, Dive and Weave" Logo="">	<!-- Display name of the server, also used for Folder path -->
+			<Address>46.251.234.35</Address>	<!-- IP address of the Server, this value gets updated in the Registry -->
+			<Port>25100</Port>			<!-- Port number of Server, this value gets updated in the Registry for the Port -->
 			<Type>Passworded</Type>			<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Version>Latest</Version>  		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
 			<EAC>Enabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
