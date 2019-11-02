@@ -22,6 +22,23 @@
 The Lost Adventures of the Duckling Gang
 </Description>
 </Server>
+<Server Name="Under new management" Logo="">
+<Version>Latest</Version>
+<EAC>Disabled</EAC>
+<Admin>NerdScurvy</Admin>
+<AdminContact>nerdscurvy@gmail.com</AdminContact>
+<DownloadMode>Clone</DownloadMode>
+<Excludes>
+<Exclude>.gitattributes</Exclude>
+<Exclude>.gitignore</Exclude>
+</Excludes>			
+<ReleaseNotes></ReleaseNotes>
+<Downloads>
+<Download>https://github.com/NerdScurvy/7DaysToDie-Modlets-A18/archive/dev.zip</Download>
+</Downloads>
+<Description>
+</Description>
+</Server>
 </ServerGroup>
 </Servers>
 
