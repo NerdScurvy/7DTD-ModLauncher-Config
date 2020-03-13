@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Servers >
+<?xml version="1.0"?>
+<Servers>
 <ServerGroup Name="NerdScurvy A18" Logo="">
 <Server Name="Duck, Dodge, Dive and Weave" Logo="">
 <Address>46.251.234.35</Address>
@@ -13,7 +13,7 @@
 <Excludes>
 <Exclude>.gitattributes</Exclude>
 <Exclude>.gitignore</Exclude>
-</Excludes>			
+</Excludes>
 <ReleaseNotes></ReleaseNotes>
 <Downloads>
 <Download>https://github.com/NerdScurvy/7DaysToDie-Modlets-A18/archive/master.zip</Download>
@@ -43,5 +43,3 @@ The Lost Adventures of the Duckling Gang
 </Server>
 </ServerGroup>
 </Servers>
-
-
