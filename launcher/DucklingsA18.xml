@@ -22,6 +22,25 @@
 The Lost Adventures of the Duckling Gang
 </Description>
 </Server>
+<Server Name="War of the walkers" Logo="">
+<Type>Passworded</Type>
+<Version>Latest</Version>
+<EAC>Disabled</EAC>
+<Admin>NerdScurvy</Admin>
+<AdminContact>nerdscurvy@gmail.com</AdminContact>
+<DownloadMode>Clone</DownloadMode>
+<Excludes>
+<Exclude>.gitattributes</Exclude>
+<Exclude>.gitignore</Exclude>
+</Excludes>			
+<ReleaseNotes></ReleaseNotes>
+<Downloads>
+<Download>https://github.com/NerdScurvy/War-of-the-Walkers-Mod-V7/archive/master.zip</Download>
+</Downloads>
+<Description>
+The Lost Adventures of the Duckling Gang
+</Description>
+</Server>
 </ServerGroup>
 </Servers>
 
