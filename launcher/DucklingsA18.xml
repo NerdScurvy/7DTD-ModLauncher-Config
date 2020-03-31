@@ -41,5 +41,24 @@ The Lost Adventures of the Duckling Gang
 The Lost Adventures of the Duckling Gang
 </Description>
 </Server>
+<Server Name="War3zuk plus" Logo="">
+<Type>Passworded</Type>
+<Version>Latest</Version>
+<EAC>Disabled</EAC>
+<Admin>NerdScurvy</Admin>
+<AdminContact>nerdscurvy@gmail.com</AdminContact>
+<DownloadMode>Clone</DownloadMode>
+<Excludes>
+<Exclude>.gitattributes</Exclude>
+<Exclude>.gitignore</Exclude>
+</Excludes>			
+<ReleaseNotes></ReleaseNotes>
+<Downloads>
+<Download>https://github.com/NerdScurvy/7-DaysToDie-War3zuk-plus/archive/master.zip</Download>
+</Downloads>
+<Description>
+The Lost Adventures of the Duckling Gang
+</Description>
+</Server>
 </ServerGroup>
 </Servers>
