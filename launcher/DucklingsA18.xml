@@ -1,6 +1,25 @@
 <?xml version="1.0"?>
 <Servers>
 <ServerGroup Name="NerdScurvy A18" Logo="">
+<Server Name="Duck and go" Logo="">
+<Type>Passworded</Type>
+<Version>Latest</Version>
+<EAC>Disabled</EAC>
+<Admin>NerdScurvy</Admin>
+<AdminContact>nerdscurvy@gmail.com</AdminContact>
+<DownloadMode>Clone</DownloadMode>
+<Excludes>
+<Exclude>.gitattributes</Exclude>
+<Exclude>.gitignore</Exclude>
+</Excludes>
+<ReleaseNotes></ReleaseNotes>
+<Downloads>
+<Download>https://gitlab.com/nerdscurvy/7DTD-DucklingServer</Download>
+</Downloads>
+<Description>
+The Lost Adventures of the Duckling Gang
+</Description>
+</Server>
 <Server Name="Duck, Dodge, Dive and Weave" Logo="">
 <Address>46.251.234.35</Address>
 <Port>25100</Port>
