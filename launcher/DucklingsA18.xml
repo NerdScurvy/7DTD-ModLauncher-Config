@@ -1,6 +1,19 @@
 <?xml version="1.0"?>
 <Servers>
 <ServerGroup Name="NerdScurvy A18" Logo="">
+<Server Name="War3zuk Duck Redux" Logo="">
+<Description>
+War3zuk Alpha 18.4 B4 AIO OverHaul
+</Description>
+<DownloadMode>Clone</DownloadMode>
+<Version>Latest</Version>
+<ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
+<Downloads>
+<Download>https://gitlab.com/war3zuk/War3zuk-Alpha-18-AIO</Download>
+<Download>https://github.com/War3zuk/war3zuk-alpha-18-aio-Addon</Download>
+<Download>https://gitlab.com/nerdscurvy/7dtd-server-modlets</Download>
+</Downloads>
+</Server>  
 <Server Name="Duck and go" Logo="">
 <Type>Passworded</Type>
 <Version>Latest</Version>
