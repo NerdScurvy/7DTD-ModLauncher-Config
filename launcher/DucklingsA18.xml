@@ -13,6 +13,28 @@ War3zuk Alpha 18.4 B4 AIO OverHaul
 <Download>https://github.com/War3zuk/war3zuk-alpha-18-aio-Addon</Download>
 <Download>https://gitlab.com/nerdscurvy/7dtd-server-modlets</Download>
 </Downloads>
+</Server> 
+<Server Name="Duck down special" Logo="">
+<Type>Passworded</Type>
+<Version>Latest</Version>
+<EAC>Disabled</EAC>
+<Admin>NerdScurvy</Admin>
+<AdminContact>nerdscurvy@gmail.com</AdminContact>
+<Description>
+A few mods to keep it interesting and maintain performance.
+</Description>  
+<DownloadMode>Clone</DownloadMode>
+<Excludes>
+<Exclude>.gitattributes</Exclude>
+<Exclude>.gitignore</Exclude>
+</Excludes>
+<ReleaseNotes></ReleaseNotes>
+<Downloads>
+<Download>https://gitlab.com/nerdscurvy/7dtd-specialk</Download>
+</Downloads>
+<Description>
+The Lost Adventures of the Duckling Gang
+</Description>
 </Server>  
 <Server Name="Duck and go" Logo="">
 <Type>Passworded</Type>
