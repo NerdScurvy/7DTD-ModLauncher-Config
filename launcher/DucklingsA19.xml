@@ -72,8 +72,21 @@ All Rights Reserved, 2018,2019,2020.2021.
 			<Download>https://gitlab.com/war3zuk/war3zuk-alpha-19-aio-mod-launcher_2021</Download>
 		 	<Download>https://gitlab.com/nerdscurvy/7dtd-modlets-a19</Download>
          </Downloads>
+	</Server>	   
+      	<Server Name="Alpha Romero" Logo="">
+        	<Description>
 
-      </Server>	   
-	   
+	      	</Description>
+	      	<DownloadMode>Clone</DownloadMode>
+	 	<Version>Latest</Version>
+         	<ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
+         	<Downloads>
+			<Download>https://gitlab.com/KhaineGB/romero-mod-a19-client.git</Download>
+			<Download>https://gitlab.com/bdubyah/Mods---A19.git</Download>
+		        
+		 	<!--Download>https://gitlab.com/nerdscurvy/7dtd-modlets-a19</Download-->
+         	</Downloads>
+
+      	</Server>	   	   
    </ServerGroup>
 </Servers>
