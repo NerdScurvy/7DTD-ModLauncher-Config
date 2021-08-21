@@ -93,7 +93,7 @@ All Rights Reserved, 2018,2019,2020.2021.
 		<!--DownloadMode>Clone</DownloadMode-->
 		<Downloads>
 			<Download>https://gitlab.com/Subquake/UndeadLegacy/-/archive/master/UndeadLegacy-master.zip</Download>
-			<Download>https://gitlab.com/nerdscurvy/7dtd-unduck-legacy.git</Download>
+			<Download>https://gitlab.com/nerdscurvy/7dtd-unduck-legacy/-/archive/master/7dtd-unduck-legacy-master.zip</Download>
 		</Downloads>
 		<Excludes>
 			<Exclude>7DaysToDieServer_Data\</Exclude>
