@@ -90,8 +90,9 @@ All Rights Reserved, 2018,2019,2020.2021.
 		<Version>Latest</Version>
 		<EAC>Disabled</EAC>
 		<ReleaseNotes>https://ul.subquake.com/patch-notes</ReleaseNotes>
+		<DownloadMode>Clone</DownloadMode>
 		<Downloads>
-			<Download>https://ul.subquake.com/dl?v=ml</Download>
+			<Download>https://gitlab.com/Subquake/UndeadLegacy/-/archive/master/UndeadLegacy-master.zip</Download>
 			<Download>https://gitlab.com/nerdscurvy/7dtd-unduck-legacy.git</Download>
 		</Downloads>
 		<Excludes>
