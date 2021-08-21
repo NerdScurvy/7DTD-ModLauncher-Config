@@ -84,6 +84,18 @@ All Rights Reserved, 2018,2019,2020.2021.
 			<Download>https://gitlab.com/KhaineGB/romero-mod-a19-client.git</Download>
 			<Download>https://gitlab.com/nerdscurvy/7dtd-alpha-romero.git</Download>
          	</Downloads>
-      	</Server>	   	   
+      	</Server>
+	<Server Name="Unduck Legacy" Logo="">
+		<Description> Requirements: A19.6 (b8) and Easy AntiCheat must be turned OFF. Features: - Unique User Interface with advanced quality of life improvements - Unique weight based encumbrance system with 300 backpack slots - Advanced lockpicking minigame and repairable vehicle system - Advanced progression and crafting system with research and action skills - Advanced world interaction system when gathering liquids like water, fuel, coffee, beer etc - Over 800 new items and blocks, including things like weapons, tools, resources, building blocks etc Website: https://ul.subquake.com Discord: https://discord.gg/bGd5QTreUf Donations: https://www.paypal.me/Subquake https://www.patreon.com/subquake </Description>
+		<Version>Latest</Version>
+		<EAC>Disabled</EAC>
+		<ReleaseNotes>https://ul.subquake.com/patch-notes</ReleaseNotes>
+		<Downloads>
+		<Download>https://ul.subquake.com/dl?v=ml</Download>
+		</Downloads>
+		<Excludes>
+			<Exclude>7DaysToDieServer_Data\</Exclude>
+		</Excludes>
+	</Server>	   
    </ServerGroup>
 </Servers>
