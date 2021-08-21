@@ -91,7 +91,8 @@ All Rights Reserved, 2018,2019,2020.2021.
 		<EAC>Disabled</EAC>
 		<ReleaseNotes>https://ul.subquake.com/patch-notes</ReleaseNotes>
 		<Downloads>
-		<Download>https://ul.subquake.com/dl?v=ml</Download>
+			<Download>https://ul.subquake.com/dl?v=ml</Download>
+			<Download>https://gitlab.com/nerdscurvy/7dtd-unduck-legacy.git</Download>
 		</Downloads>
 		<Excludes>
 			<Exclude>7DaysToDieServer_Data\</Exclude>
