@@ -65,7 +65,8 @@ All Rights Reserved,2018,2019,2020,2021,2022
 	 <Version>latest_experimental</Version>
          <ReleaseNotes>https://7daystodiemods.com/war3zuk-tallon-mods-all-in-one/</ReleaseNotes>
          <Downloads>
-			<Download>https://gitlab.com/war3zuk/War3zuk-Alpha-20-AIO-Mod-Launcher_2022</Download>
+		 <Download>https://gitlab.com/war3zuk/War3zuk-Alpha-20-AIO-Mod-Launcher_2022</Download>
+		 <Download>https://gitlab.com/nerdscurvy/7dtd-duckling-war3.git</Download>
          </Downloads>
 
       </Server>   
