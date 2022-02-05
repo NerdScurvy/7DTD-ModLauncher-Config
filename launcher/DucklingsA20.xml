@@ -70,5 +70,17 @@ All Rights Reserved,2018,2019,2020,2021,2022
          </Downloads>
 
       </Server>   
+      <Server Name="Vanilaish" Logo="">
+         <Description>
+
+	      </Description>
+	      <DownloadMode>Clone</DownloadMode>
+	 <Version>latest</Version>
+         <ReleaseNotes></ReleaseNotes>
+         <Downloads>
+		 <Download>https://gitlab.com/nerdscurvy/7dtd-duckling-war3.git</Download>
+         </Downloads>
+
+      </Server>   	   
    </ServerGroup>
 </Servers>
