@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="N" Logo="" Description="">
-	   <Server Name="DF" Logo="">
-		   <Description>Duckness Falls</Description>
-		   <DownloadMode>Clone</DownloadMode>
-         <Downloads>
-	 <Download>https://KhaineUK@dev.azure.com/KhaineUK/DarknessFallsA20/_git/DarknessFallsA20</Download>
-		   <Download>https://gitlab.com/KhaineGB/darkness-falls-a20.git</Download>
-		 <Download>https://gitlab.com/nerdscurvy/7dtd-duckling-war3.git</Download>
-         </Downloads>		   
-		   
-	   </Server>
-   </ServerGroup>	   
+	<ServerGroup Name="N" Logo="" Description="">
+		<Server Name="DF" Logo="">
+			<Description>Duckness Falls</Description>
+			<Version>latest</Version>
+			<DownloadMode>Clone</DownloadMode>
+			<Downloads>
+				<Download>https://KhaineUK@dev.azure.com/KhaineUK/DarknessFallsA20/_git/DarknessFallsA20</Download>
+				<Download>https://gitlab.com/KhaineGB/darkness-falls-a20.git</Download>
+				<Download>https://gitlab.com/nerdscurvy/7dtd-duckling-war3.git</Download>
+			</Downloads>		   
+		</Server>
+	</ServerGroup>	   
    <ServerGroup Name="NerdScurvy A20" Logo="" Description="">
 	
 
