@@ -3,7 +3,7 @@
    <ServerGroup Name="NerdScurvy A21" Logo="" Description="">
       <Server Name="Duck Experiment" Logo="">
          <Description>
-
+Test
 	      </Description>
 	      <DownloadMode>Clone</DownloadMode>
 	 <Version>latest_experimental</Version>
