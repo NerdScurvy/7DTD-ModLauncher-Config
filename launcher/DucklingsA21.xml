@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="NerdScurvy A21" Logo="" Description="">
+      <Server Name="Duck Experiment" Logo="">
+         <Description>
+
+	      </Description>
+	      <DownloadMode>Clone</DownloadMode>
+	 <Version>latest_experimental</Version>
+    
+         <Downloads>
+  		   <Download>https://gitlab.com/bdub1/Mods-A21/-/archive/main/Mods-A21-main.zip?path=BdubsVehicles</Download>
+         </Downloads>
+
+      </Server>   
+      <Server Name="Vanilaish" Logo="">
+         <Description>
+
+	      </Description>
+	      <DownloadMode>Clone</DownloadMode>
+	 <Version>latest</Version>
+         <ReleaseNotes></ReleaseNotes>
+         <Downloads>
+		 <Download>https://gitlab.com/nerdscurvy/7dtd-duckling-war3.git</Download>
+         </Downloads>
+
+      </Server>   	   
+   </ServerGroup>
+</Servers>
