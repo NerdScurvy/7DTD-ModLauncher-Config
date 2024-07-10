@@ -9,7 +9,7 @@ Test
 	 <Version>latest_experimental</Version>
     
          <Downloads>
-		   <Download>https://gitlab.com/nerdscurvy/7dtd-ducklings.git</Download>
+		   <Download>https://7-days-to-die.s3.amazonaws.com/server-mods-2024.zip</Download>
   		   
          </Downloads>
 
