@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="NerdScurvy 2024" Logo="" Description="">
+      <Server Name="Duck Experiment" Logo="">
+         <Description>
+Test
+	      </Description>
+	      <DownloadMode>Clone</DownloadMode>
+	 <Version>latest_experimental</Version>
+    
+         <Downloads>
+		   <Download>https://gitlab.com/nerdscurvy/7dtd-ducklings.git</Download>
+  		   
+         </Downloads>
+
+      </Server>   
+
+ 
+   </ServerGroup>
+</Servers>
+
+
