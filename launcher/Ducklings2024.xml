@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
    <ServerGroup Name="NerdScurvy 2024" Logo="" Description="">
-      <Server Name="Duck Experiment" Logo="">
+      <Server Name="Duck Rebirth" Logo="">
          <Description>
 Test
 	      </Description>
 	      <DownloadMode>Clone</DownloadMode>
-	 <Version>latest_experimental</Version>
+	 <Version>latest</Version>
     
          <Downloads>
-		   <Download>https://7-days-to-die.s3.amazonaws.com/server-mods-2024.zip</Download>
+		   <Download>https://7-days-to-die.s3.amazonaws.com/Rebirth.zip</Download>
   		   
          </Downloads>
 
