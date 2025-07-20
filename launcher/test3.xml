@@ -13,7 +13,7 @@
 			<EAC>Disabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://github.com/dwallorde/war-of-the-walkers-client/archive/refs/heads/main.zip</Download>
+				<Download>https://github.com/dwallorde/war-of-the-walkers-client.git</Download>
 			</Downloads>
 			<Description>
 			Test server
