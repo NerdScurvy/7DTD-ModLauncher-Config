@@ -7,7 +7,7 @@
 
 	
 		
-		<Server Name="I'm Walking Here" Logo="">	<!-- Display name of the server, also used for Folder path -->
+		<Server Name="Im Walking Here" Logo="">	<!-- Display name of the server, also used for Folder path -->
 		<!-- Whitelist, Public, Private, etc . Display only field, has no other effect -->
 			<Version>Latest</Version>  		<!-- Latest, or specify an beta version string. If other than Latest, will attempt an beta label on a steam download -->
 			<EAC>Disabled</EAC>			<!-- Enable, Disable EAC. Determines if to run 7DaysToDie_EAC.exe or not -->
