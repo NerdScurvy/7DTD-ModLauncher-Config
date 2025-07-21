@@ -14,6 +14,7 @@
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
 				<Download>https://github.com/dwallorde/war-of-the-walkers-client.git</Download>
+				<Download>https://7-days-to-die.s3.us-east-1.amazonaws.com/Mods.zip</Download>
 			</Downloads>
 			<Description>
 			Test server
